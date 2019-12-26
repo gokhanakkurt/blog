@@ -1,8 +1,8 @@
 # Setup
 title: Husnu Gokhan Akkurt
 tagline: Software Engineer
-url: http://gokhanakkurt.com
-baseurl: "/blog"
+url: http://blog.gokhanakkurt.com
+baseurl: ""
 permalink: pretty
 paginate: 5
 

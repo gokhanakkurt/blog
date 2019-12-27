@@ -7,7 +7,7 @@ The Feynman technique is a learning model for new concepts. This is the techniqu
 
 This technique is introduced by famous physicist Richard Feynman. It’s quite simple and probably the best way to learn something new.
 
-You know that memorizing is not the way of learning. Once you discover something, you would like to learn the reasoning or the idea behind the concept. If you’re the one, this is the technique that elevates your learning process.
+Once you discover something, you would like to learn the reasoning or the idea behind the concept. If you’re the one, this is the technique that elevates your learning process.
 
 Here are the major steps: 
 

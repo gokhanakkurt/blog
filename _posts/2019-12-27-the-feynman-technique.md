@@ -46,6 +46,6 @@ This is the technique that I discovered in my senior year at university. Nowaday
 
 > “You can know the name of a bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird... So let's look at the bird and see what it's doing — that's what counts. I learned very early the difference between knowing the name of something and knowing something.” - Richard Feynman
 
-Learning is not memorizing, but profoundly an understanding of the whole concept and explaining the concept in a simple manner.
+Learning is not memorizing, but profoundly an understanding of the whole concept and explaining it in a simple manner.
 
 Feynman's approach is the best one that I've ever seen.

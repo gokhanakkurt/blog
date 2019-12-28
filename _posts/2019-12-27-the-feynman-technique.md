@@ -20,7 +20,7 @@ When you feel fine, move to the next step.
 
 ## 2. Teach it
 
-In this step, you should explain the concept to someone else. It's just like presenting to someone.
+In this step, you should teach the concept to someone else. It's just like presenting to someone.
 
 While explaining things, you will discover some gaps in your knowledge. These are the areas you should pay attention to. Please take notes when you discover them.
 
@@ -28,9 +28,9 @@ This step reveals all the gaps in your knowledge, and it's the key step of this 
 
 ## 3. Fill the gaps
 
-In the previous step, you discovered the gaps and your notes. Now, it is high time for filling those gaps in your knowledge and digging deep.
+In the previous step, you discovered the gaps and your notes. Now, it is high time to fill those gaps in your knowledge and digging deep into the areas.
 
-You should concentrate on the areas that you are lacking knowledge.
+You need to concentrate on the areas that you are lacking knowledge of the concept.
 
 ## 4. Review
 
@@ -42,10 +42,10 @@ Once you simplify it, you're good to go!
 
 ## Personal Thoughts
 
-This is the technique that I discovered in my senior year at university. Nowadays, I mostly find myself describing things to my colleagues, friends and my family. It really made a significant effect on my learning process.
+This is the technique that I discovered in my senior year at university. It really made a significant effect on my learning process.
 
 > “You can know the name of a bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird... So let's look at the bird and see what it's doing — that's what counts. I learned very early the difference between knowing the name of something and knowing something.” - Richard Feynman
 
 Learning is not memorizing, but profoundly an understanding of the whole concept and explaining it in a simple manner.
 
-Feynman's approach is the best one that I've ever seen.
+I can fairly say that Feynman's approach is the best one that I've ever seen.

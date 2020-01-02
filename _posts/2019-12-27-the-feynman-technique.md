@@ -28,7 +28,7 @@ This step reveals all the gaps in your knowledge, and it's the key step of this 
 
 ## 3. Fill the gaps
 
-In the previous step, you discovered the gaps and your notes. Now, it is high time to fill those gaps in your knowledge and digging deep into the areas.
+In the previous step, you found the gaps and took your notes. Now, it is high time to fill those gaps in your knowledge and digging deep into the areas.
 
 You need to concentrate on the areas that you are lacking knowledge of the concept.
 
